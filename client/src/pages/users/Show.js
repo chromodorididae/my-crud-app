@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Edit() {
+function Show() {
     return (
         <div>
-            <h1>POSTS Edit View</h1>
+            <h1>USERS Show View</h1>
         </div>
     )
 }
 
-export default Edit;
+export default Show;

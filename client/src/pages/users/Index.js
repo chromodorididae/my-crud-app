@@ -1,12 +1,12 @@
 import React from 'react';
 
-//map through props.posts.map
+//map through props.users.map
 
 
 function Index() {
     return (
         <div>
-            <h1>POSTS Index View</h1>
+            <h1>USERS Index View</h1>
         </div>
     );
 }
